@@ -1,2 +1,1 @@
-# Disorder
-## Behaviour analysis for mobile apps
+# Disorder - Behaviour analysis for mobile apps
